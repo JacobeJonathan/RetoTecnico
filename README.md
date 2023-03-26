@@ -57,6 +57,9 @@
     - 1.-Abrimos en un editor de codigo en mi caso utilice visual studio code aunque tambien pueden utilizar IntelliJ IDEA
     - 2.-Ejecutamos con ul f5 la carpeta java.java
     ```
+    ```
+- ![Inicio](/imagenes/javanotifi.png)}
+- ![Inicio](/imagenes/mensaje.png)
 - ojo
     ```
     - debemos tener el ssid
@@ -65,7 +68,7 @@
     - esto es basicamente para que nos envien un notificacion cuando no tenemos internet como acontinuacion
     ```
 - ![Inicio](/imagenes/twilio.png)
-- ![Inicio](/imagenes/mensaje.png)
+
 ## Otras herramientas
 - utilice git para el control de versiones el id visual studio code y github como repositorio
 - utilice para el backend nodejs y para el frontend ract /speedtest-ap
